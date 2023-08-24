@@ -1,4 +1,4 @@
-# sneekgame
+# snake game
 
 A new Flutter project.
 
